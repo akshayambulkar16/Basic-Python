@@ -4,6 +4,7 @@ a = "Hello World" # a is string variable
 b = 232           # b is integer variable
 c = 21.34         # c is float
 d = True          # d is boolean
+# a is variable
 print(a)
 # The type() function in Python returns the data type of the object passed to it as an argument. 
 print(type(a))
